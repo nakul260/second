@@ -89,6 +89,7 @@ class StringSort {
 
         System.out.println("\nSorted array is");
         printArray(arr);
+        System.out.print("git");
     }
 }
 /* This code is contributed by Nikhil B */
