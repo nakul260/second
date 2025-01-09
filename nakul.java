@@ -15,6 +15,6 @@ class GFG {
     public static void main(String[] args)
     {
         GFG hello = new GFG();
+        System.out.println("Default constructor xyz "); //edit
     }
 }
-#
